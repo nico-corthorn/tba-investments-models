@@ -1,0 +1,17 @@
+# Formatting
+black==23.11.0
+isort==5.12.0
+pylint==3.0.2
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Deployment
+aws-sam-cli==1.127.0
+
+# SageMaker
+sagemaker==2.197.1
+
+# Package management
+setuptools
